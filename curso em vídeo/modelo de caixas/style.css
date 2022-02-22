@@ -1,0 +1,33 @@
+h1{
+    background-color: aquamarine;
+
+    height: 300px;
+    width: 300px;
+
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(210, 255, 47);
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+
+
+}
+a{
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+}
