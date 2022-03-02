@@ -1,6 +1,25 @@
 body{
     background-image: linear-gradient(to right, #0b235c,#2b6ead,#2fbdb6,#30c856,#254105);
+    display: grid;
+    place-items: center;
+    height: 800px;
 }
-body:hover{
-    background-color: #0b235c;
+button{
+    background-image: linear-gradient(to right,rgb(143, 4, 167), rgb(250, 7, 108), rgb(149, 3, 3));
+    height: 400px;
+    width: 400px;
+    font-size: 70px;
+    color: azure;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.7s;
+}
+button:hover{
+    background-image: linear-gradient(to right,rgb(77, 255, 6), rgb(7, 242, 250), rgb(97, 12, 255));
+    color: #0b235c;
+    height: 600px;
+    width: 600px;
+    border-radius: 100%;
+    transform: rotate(360deg)
+
 }
