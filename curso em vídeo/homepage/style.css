@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to right, #0b235c,#2b6ead,#2fbdb6,#30c856,#254105);
+}
+body:hover{
+    background-color: #0b235c;
+}
